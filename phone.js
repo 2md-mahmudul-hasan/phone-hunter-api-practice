@@ -96,4 +96,4 @@ const loaderspinner = (isLoading)=>{
 
 
 //call main phone()
-phone()
+phone('apple')
